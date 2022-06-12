@@ -1,3 +1,4 @@
+# don't dare to touch this file if your not a programmer just use this as it is 
 import functools
 
 class basic_method:
